@@ -14,10 +14,6 @@
 - **Content Management Systems:** Shopify, WordPress
 - **Design Tools:** Figma, Photoshop
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jestella&show_icons=true&theme=radical)
-
 ## Connect with Me
 
 - 💼 https://linkedin.com/in/jestellaa
