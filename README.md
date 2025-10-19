@@ -1,12 +1,3 @@
-# Welcome 👋
-
-## About Me
-
-- 🔭 Front-end Developer based in Toronto
-- 🌱 Currently exploring Three.js
-- 💡 Interests: Web Development, IoT Development, 3D Graphics
-- 🩵 Interactive & Immersive Arts, Design, and Technologies
-
 ## My Skills
 
 - **Programming Languages:** JavaScript (ES6+), CSS3, HTML5
