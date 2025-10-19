@@ -1,9 +1,20 @@
-## My Skills
+## 🚀 Skills
 
-- **Programming Languages:** JavaScript (ES6+), CSS3, HTML5
-- **Web Technologies:** Next.js, ReactJS, Angular, TypeScript, Three.js, Node.js, Express.js, npm/yarn, Bootstrap
-- **Content Management Systems:** Shopify, WordPress
-- **Design Tools:** Figma, Photoshop
+### 💻 Programming Languages
+- JavaScript (ES6+), TypeScript  
+- HTML5, CSS3
+
+### ⚙️ Web & Frameworks
+- **Frontend:** React.js, Next.js, Angular, Three.js  
+- **Backend:** Node.js, Express.js  
+- **Tools & Package Managers:** npm, Yarn, Bootstrap
+
+### 🛒 CMS & E-commerce Platforms
+- **WordPress** (CMS)  
+- **Shopify** (E-commerce / CMS)
+
+### 🎨 Design Tools
+- Figma, Photoshop
 
 ## Connect with Me
 
