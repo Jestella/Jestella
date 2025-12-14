@@ -10,8 +10,9 @@
 - **Tools & Package Managers:** npm, Yarn, Bootstrap
 
 ### CMS & E-commerce Platforms
-- **WordPress** (CMS)  
 - **Shopify** (E-commerce / CMS)
+- **WordPress** (CMS)  
+- **Wix** (CMS)
 
 ### Design Tools
 - Figma, Photoshop
